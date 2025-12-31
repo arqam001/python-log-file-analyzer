@@ -1,0 +1,7 @@
+
+2025-01-10 10:01:12 INFO User login successful
+2025-01-10 10:01:15 ERROR Database connection failed
+2025-01-10 10:01:18 WARNING Disk space low
+2025-01-10 10:01:22 INFO Request completed in 245ms
+2025-01-11 11:15:44 INFO Request completed in 310ms
+2025-01-12 09:05:10 ERROR Timeout while calling API
